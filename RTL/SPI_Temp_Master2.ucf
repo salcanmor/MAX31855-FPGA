@@ -1,0 +1,9 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = P50;
+NET "SPI_clk" LOC = P139;
+NET "SPI_cs" LOC = P141;
+NET "data_out" LOC = P46;
+NET "reset" LOC = P132;
+NET "SPI_Data_In" LOC = P127;
